@@ -4,7 +4,7 @@
 Presenting our versatile note-taking application, catering to a wide range of users – from small business owners to individuals taking notes for classes or any other purpose. With this user-friendly app, you can easily create and store notes.
 Adding new notes is easy! Simply enter the title and content of your note into the empty fields on the right-hand column. As soon as you finish typing, a convenient Save icon will appear on the top navigation bar. With just one click on the Save icon, your new note will be securely saved and instantly displayed alongside your other existing notes in the left-hand column. It's that simple!
 
-[Link to Deployed Webpage] - (https://innovative-note-taker-c6ef77508468.herokuapp.com/notes)
+[Link to Deployed Webpage](https://innovative-note-taker-c6ef77508468.herokuapp.com/notes)
 
 - Table of Contents
   - [Description](#description)
